@@ -1,10 +1,10 @@
 # Setup
 title: Poo
 tagline: blog
-url: "https://namadomainmu.com"   # isi dengan domain asli kamu
+url: ""   # isi dengan domain asli kamu
 paginate: 7
 baseurl: "/POO"
-permalink: pretty
+permalink: /:title/
 
 # Plugins (Gems)
 plugins:
