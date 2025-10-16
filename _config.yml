@@ -2,7 +2,7 @@
 title: Poo
 tagline: blog
 url: "https://namadomainmu.com"   # isi dengan domain asli kamu
-paginate: 2
+paginate: 7
 baseurl: "/POO"
 permalink: pretty
 
