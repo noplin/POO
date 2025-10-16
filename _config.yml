@@ -1,9 +1,9 @@
 # Setup
 title: Poole
 tagline: The Jekyll Butler
-url: https://noplin.github.io/POO
+url: 
 paginate: 1
-baseurl: ""
+baseurl: "/POO"
 permalink: pretty
 
 # Gems
