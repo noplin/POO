@@ -4,7 +4,7 @@ tagline: blog
 url: ""   # isi dengan domain asli kamu
 paginate: 7
 baseurl: "/POO"
-permalink: /:title/
+permalink: /:title
 
 # Plugins (Gems)
 plugins:
