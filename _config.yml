@@ -1,6 +1,6 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: Poo
+tagline: blog
 url: 
 paginate: 1
 baseurl: "/POO"
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: M admin
+  url: https://twitter.com/ebi
+  email: madmin@gmail.com
 
 # Custom vars
 version: 3.0.0
