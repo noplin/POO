@@ -1,16 +1,17 @@
 # Setup
 title: Poo
 tagline: blog
-url: 
+url: "https://namadomainmu.com"   # isi dengan domain asli kamu
 paginate: 2
 baseurl: "/POO"
 permalink: pretty
 
-# Gems
+# Plugins (Gems)
 plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap     # <--- tambahkan ini
 
 # Optimize Jekyll
 exclude:
@@ -26,12 +27,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
+# Google Analytics (optional)
 # ga_analytics: UA-000000-0
 
-# Specify the author for blog posts
+# Author info
 author:
   name: M admin
   url: https://twitter.com/ebi
